@@ -1,1 +1,1 @@
-                <img src="https://widgetbite.com/banner?title=sdwird&subtitle=number%20one%20meb%20eri%C5%9Fim%20engeli%20hater&backgroundpalette=twilight&fontpalette=jungle&titletransform=skew&subtitletransform=skew" width=100% height=100%/>
+<img src="https://widgetbite.com/banner?title=sdwird&subtitle=number%20one%20meb%20eri%C5%9Fim%20engeli%20hater&backgroundpalette=twilight&fontpalette=jungle&titletransform=skew&subtitletransform=skew" width=100% height=100%/>
